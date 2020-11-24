@@ -27,6 +27,12 @@ A JavaScript library to draw pretty git graphs.
 - [View tree chart log Clubadmin](https://betoxl.github.io/gitloggraph/index.html)
 
 
-# Analysis and graphics of the git Log (JSON) using google collab
+# Analysis and graphics of the git Log (JSON) using google colaboratory.
 - [View Git Log data analysis](https://colab.research.google.com/drive/1tRIGq6uDyuu-K0WlA9GbmWhpsnY9nq13?usp=sharing)
 
+
+
+
+[**GPL-3.0 License**](https://www.gnu.org/home.es.html)
+
+[**Proyect Venus**](https://www.thevenusproject.com/)
