@@ -18,6 +18,15 @@ It is a tool that allows you to convert the git log into Json format. It is prog
 # Git Log Graph
 See https://github.com/nicoespeon/gitgraph.js/
 
+## Git Graph
+
+A JavaScript library to draw pretty git graphs.
+
+## Usage Demo using the Club Admin project Log.
+
+- [View tree chart log Clubadmin](https://betoxl.github.io/gitloggraph/index.html)
+
+
+# Analysis and graphics of the git Log (JSON) using google collab
 - [View Git Log data analysis](https://colab.research.google.com/drive/1tRIGq6uDyuu-K0WlA9GbmWhpsnY9nq13?usp=sharing)
-- [View tree chart](https://betoxl.github.io/gitloggraph/index.html)
 
